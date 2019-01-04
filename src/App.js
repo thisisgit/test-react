@@ -6,6 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <test-ng-element></test-ng-element>
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
