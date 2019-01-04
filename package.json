@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "^1.0.0",
+    "react-scripts": "^2.0.0",
     "test-ng-elements": "^0.1.2"
   },
   "scripts": {
@@ -16,5 +16,11 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
